@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 # README for Shiny App Project
 
 This project contains an interactive application displaying information on the Estimated incidence of Tuberculosis in various countries in 2019. 

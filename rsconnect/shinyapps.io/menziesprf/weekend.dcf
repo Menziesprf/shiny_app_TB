@@ -1,0 +1,13 @@
+name: weekend
+title: weekend
+username:
+account: menziesprf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3286595
+bundleId: 3894378
+url: https://menziesprf.shinyapps.io/weekend/
+when: 1606124468.62353
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/TB_burden_countries_2020-11-21.csv|data/TB_data_dictionary_2020-11-21.csv
